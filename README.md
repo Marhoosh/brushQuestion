@@ -10,5 +10,8 @@
 # 自制题库
 运行parseTxtToJson.py即可将原始的txt题库转化为json格式题库，注意txt题库需要与项目提供的txt题库保持一致
 
+# 题库获取
+可通过超星学习通获取题库：https://github.com/notnotype/xxt 
+
 
 
